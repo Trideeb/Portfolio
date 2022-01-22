@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Mah Personal Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trideeb/Portfolio.git"
+  },
+  "author": "3deeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trideeb/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Trideeb/Portfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
